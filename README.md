@@ -1,5 +1,5 @@
 # MYSTRAN_Releases
 
-Unofficial release versions for [MYSTRAN](https://github.com/MYSTRANsolver/MYSTRAN) are stored here. These contain a Windows EXE and/or the associated source code at the time of the release. Some may also contain documentation.
+Official release versions for [MYSTRAN](https://github.com/MYSTRANsolver/MYSTRAN) are stored here. These contain a Windows EXE, source code, and relevant documentation at the time of the release.
 
-In the near future, releases will be more official.
+*Note that some of the Prior Versions are less official. Starting with 14.0, releases are no more official.
